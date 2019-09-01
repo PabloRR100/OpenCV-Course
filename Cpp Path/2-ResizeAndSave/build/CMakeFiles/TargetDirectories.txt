@@ -1,0 +1,3 @@
+/home/jovyan/work/Cpp Path/2-ResizeAndSave/build/CMakeFiles/rebuild_cache.dir
+/home/jovyan/work/Cpp Path/2-ResizeAndSave/build/CMakeFiles/sampleCode.dir
+/home/jovyan/work/Cpp Path/2-ResizeAndSave/build/CMakeFiles/edit_cache.dir
